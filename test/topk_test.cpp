@@ -16,7 +16,9 @@
 
 #include <gmock/gmock.h>
 #include <gtest/gtest.h>
-#include <vector>
+
+
+#include "topk/topk.hpp"
 
 using ::testing::ContainerEq;
 
